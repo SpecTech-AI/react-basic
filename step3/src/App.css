@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+.app h1 {
+  color: #213547;
+  margin-bottom: 1.5rem;
+}

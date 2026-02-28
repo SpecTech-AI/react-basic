@@ -1,0 +1,7 @@
+[
+  { "id": 1, "text": "Reactの公式ドキュメントを読む", "completed": true },
+  { "id": 2, "text": "コンポーネントを作成する", "completed": true },
+  { "id": 3, "text": "useStateを理解する", "completed": false },
+  { "id": 4, "text": "useEffectを理解する", "completed": false },
+  { "id": 5, "text": "API連携を実装する", "completed": false }
+]
